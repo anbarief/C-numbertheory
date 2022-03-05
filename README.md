@@ -1,1 +1,1 @@
-# C program examples for learning (using number theory problems)
+# C program examples for learning (mostly math problems)
